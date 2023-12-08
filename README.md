@@ -22,9 +22,9 @@
   ![not_clipping_grads](monalisa/not_clipping_grads.png)
 * Not normalizing the gradients doesn't affect the resultant image, therefore you should normalize the gradients to see the results
 ---
-### Further Inspection which can be done
+## Further Inspection which can be done
 * The following repo was created using the Inception Model pre-trained on Imagenet which contains many classes
 * Will update this repo to include results by different pre-trained Models, and then finetuned on different tasks like dog classification,...
 
-### References
+## References
 * [Inceptionism: Going Deeper into Neural Networks](https://blog.research.google/2015/06/inceptionism-going-deeper-into-neural.html)
